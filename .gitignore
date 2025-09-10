@@ -1,1 +1,11 @@
+# Archivos MAC
 .DS_store
+.AppleDouble
+.LSOverride
+
+# Archivos Xcode
+*.xcuserstate
+*.xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
