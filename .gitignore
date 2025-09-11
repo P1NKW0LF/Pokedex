@@ -1,11 +1,18 @@
 # Archivos MAC
-.DS_store
+
+.DS_Store
 .AppleDouble
-.LSOverride
+.LOOverride
 
 # Archivos Xcode
+
 *.xcuserstate
-*.xcuserdata/
+xcuserdata/
 *.xccheckout
 *.moved-aside
 DerivedData/
+
+# Archivos Playgrounds
+
+timeline.xctimeline
+playground.xcworkspace
